@@ -1219,7 +1219,7 @@ Rhythm Sharma
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
-<!-- prettier-ignore-end -->
+- [Mathieu Gingras](https://github.com/openedeye)
 
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
